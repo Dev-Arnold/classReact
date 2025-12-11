@@ -9,7 +9,7 @@ function Header() {
                 <li>Home</li>
                 <li>About</li>
                 <li>Contact</li>
-                <li>Services</li>
+                <li>Services 2</li>
             </ol>
         </nav>
         <button className=' hidden sm:block bg-black text-white font-bold p-2 cursor-pointer rounded-md'>
